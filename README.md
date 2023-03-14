@@ -1,1 +1,1 @@
-# matplotlib_templates
+# Collection of different matplotlib templates
